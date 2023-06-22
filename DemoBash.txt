@@ -1,3 +1,7 @@
 Hello Kirti
+<<<<<<< HEAD
 
 Hello Mira
+=======
+Hi Shampirna
+
